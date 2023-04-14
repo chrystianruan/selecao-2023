@@ -32,3 +32,6 @@ Você está livre para utilizar qualquer linguagem ou ferramenta.
 1. Adicione a esse README instruções de acesso ao seu sistema
 
 ## Acesso
+
+1. A url do site é: https://detector-palavroes.netlify.app
+1. É uma página simples com apenas um input e um botão de checar. Quando o botão de checar for pressionado, e haver texto, o código analisará o texto digitado e irá retornar se há ou não palavrões.
